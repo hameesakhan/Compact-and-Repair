@@ -1,0 +1,26 @@
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\Debug\ResolveAssemblyReference.cache
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\Debug\Compact_and_Repair.Resources.resources
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\Debug\Compact and Repair.vbproj.GenerateResource.Cache
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\Debug\Compact and Repair.exe
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\Debug\Compact and Repair.pdb
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\Debug\Compact and Repair.xml
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\Debug\Interop.ADODB.dll
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\Debug\Interop.ADODB.dll
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\Debug\Compact and Repair.vbproj.ResolveComReference.cache
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\Debug\Compact and Repair.exe
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\Debug\Compact and Repair.xml
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\Debug\Compact and Repair.pdb
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\x86\Release\Compact and Repair.exe
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\x86\Release\Compact and Repair.pdb
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\x86\Release\Compact and Repair.xml
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\x86\Release\System.dll
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\x86\Release\Microsoft.Office.Interop.Access.Dao.dll
+F:\VB2005Projects\CompactandRepair\Compact and Repair\bin\x86\Release\Interop.ADODB.dll
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\x86\Release\ResolveAssemblyReference.cache
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\x86\Release\Interop.ADODB.dll
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\x86\Release\Compact and Repair.vbproj.ResolveComReference.cache
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\x86\Release\Compact_and_Repair.Resources.resources
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\x86\Release\Compact and Repair.vbproj.GenerateResource.Cache
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\x86\Release\Compact and Repair.exe
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\x86\Release\Compact and Repair.xml
+F:\VB2005Projects\CompactandRepair\Compact and Repair\obj\x86\Release\Compact and Repair.pdb
